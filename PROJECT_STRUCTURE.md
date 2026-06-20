@@ -1,1 +1,0 @@
-# Orc Defense Project Structure\n\n- project.godot\n- scenes/Main.tscn\n- scripts/README.txt\n
